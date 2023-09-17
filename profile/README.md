@@ -74,11 +74,15 @@
 
 ### ✏️ DB 설계
 
-![슬라이드44](https://github.com/Fintech-Internship-04/.github/assets/11494592/f3e5360a-e542-4d02-b5d2-726b155e4996)
+![슬라이드44](https://github.com/Fintech-Internship-04/.github/assets/11494592/f3e5360a-e542-4d02-b5d2-726b155e4996)  
+
+유저, 모임, 계좌 관련 기능을 구현하기 위한 DB를 설계하였습니다.
 
 ### ✏️ 화면 설계
 
-![슬라이드41](https://github.com/Fintech-Internship-04/.github/assets/11494592/c79cef06-8fd4-412a-ac14-48455f46a68b)
+![슬라이드41](https://github.com/Fintech-Internship-04/.github/assets/11494592/c79cef06-8fd4-412a-ac14-48455f46a68b)  
+
+모바일 앱의 주요 화면을 Figma 툴을 활용해 디자인하였습니다.
 
 
 ## ⏰ 개발 기간 (2022.0 ~ 2022.06.10)
