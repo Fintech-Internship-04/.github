@@ -115,7 +115,7 @@
 
 ### ✏️ 기획 및 설계
 
-[📌 API 명세서](https://github.com/Fintech-Internship-04/already-FE)
+[📌 API 명세서](https://docs.google.com/spreadsheets/d/14fNcLsGACdjf05tymfdWs0joQEAKalX1WlGWrzz5ALA/edit#gid=14029005)
 
 [📌 Github(Frontend)](https://github.com/2022-1-Capstone-Project/face-your-pace-frontend)
 
