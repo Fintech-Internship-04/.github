@@ -76,19 +76,9 @@
 
 ![슬라이드44](https://github.com/Fintech-Internship-04/.github/assets/11494592/f3e5360a-e542-4d02-b5d2-726b155e4996)
 
-### ✏️ 기술 Logic
+### ✏️ 화면 설계
 
-- 음악 다운로드 및 플레이리스트 생성
-
-<img width="714" alt="다운플리생성" src="https://user-images.githubusercontent.com/56347876/172786023-39ee0e8c-9f82-424a-a9d4-8a61c674241d.png">
-
-- 음원 처리
-
-<img width="704" alt="음원" src="https://user-images.githubusercontent.com/56347876/172786053-b8b32555-1aae-4995-b8d4-48315a1b1bdc.png">
-
-- BPM 추천
-
-<img width="706" alt="bpm" src="https://user-images.githubusercontent.com/56347876/172786045-e3067479-1407-4240-8ace-7257705b06ff.png">
+![슬라이드41](https://github.com/Fintech-Internship-04/.github/assets/11494592/c79cef06-8fd4-412a-ac14-48455f46a68b)
 
 
 ## ⏰ 개발 기간 (2022.0 ~ 2022.06.10)
