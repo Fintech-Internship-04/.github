@@ -12,31 +12,35 @@
 
 # 🏃 서비스 소개
 
-![슬라이드6](https://github.com/Fintech-Internship-04/.github/assets/11494592/42f0ee45-c46a-4a66-9ddb-4f6a3a73930b)
-![슬라이드8](https://github.com/Fintech-Internship-04/.github/assets/11494592/a94fa2fc-954b-483e-b9b0-26f9496c6edc)
-![슬라이드10](https://github.com/Fintech-Internship-04/.github/assets/11494592/27f1b3e4-6bb8-4bdb-9c00-02589feba69b)
-![슬라이드11](https://github.com/Fintech-Internship-04/.github/assets/11494592/6d8970f7-e5b7-4dd6-821f-f7f11065ca89)
-![슬라이드12](https://github.com/Fintech-Internship-04/.github/assets/11494592/ad6d3e19-7f8b-4ccb-af4a-c6899d64645d)
-![슬라이드13](https://github.com/Fintech-Internship-04/.github/assets/11494592/60879424-951c-4c77-b951-40d7163c59cd)
-![슬라이드14](https://github.com/Fintech-Internship-04/.github/assets/11494592/2c0df2fb-c095-4af5-bd49-4250c0cfee66)
-
 
 
 ### 🌞 프로젝트 동기
 
-  스포츠 심리학 저널에 게재된 영국의 브루넬 대학교(Brunel University) 스포츠 교육학과 코스타스 카라게오그리스(Costas Karageorghis) 박사의 연구 결과에 따르면, 음악을 들으면서 운동하면 평소보다 15% 정도 더 오래 운동을 지속할 수 있다고 한다. 또한 운동할 때 음악을 적절하게 선택하면 신진대사, 근력, 호흡, 심박수 및 혈압 등에 영향을 주며 근육의 반사작용을 일으키게 하여 피로를 잊게 만들어주는 등 운동효과를 높여 준다.
+술자리, 회식 등 모임에 참석하는 사람들이 많으며 이에 따라 더치페이를 해야 할 상황이 많이 발생합니다.
+![슬라이드6](https://github.com/Fintech-Internship-04/.github/assets/11494592/42f0ee45-c46a-4a66-9ddb-4f6a3a73930b)
 
-  달리기의 경우, 1km를 얼마나 빠른 속도로 달리는지 측정지표인 ‘페이스(m/km)' 가 있다. 노래를 들으며 달릴 때, 목표로 하는 페이스와 속도가 맞는 노래를 듣는 경우에는 노래를 들으며 박자에 맞게 뛸 수 있지만, 본인의 페이스에 비해 조금 느리거나 빠른 노래가 나오면 운동 리듬 유지에 큰 어려움이 있다.
+![슬라이드8](https://github.com/Fintech-Internship-04/.github/assets/11494592/a94fa2fc-954b-483e-b9b0-26f9496c6edc)
+![슬라이드10](https://github.com/Fintech-Internship-04/.github/assets/11494592/27f1b3e4-6bb8-4bdb-9c00-02589feba69b)
 
-  사용자의 원하는 속도를 반영하여 노래를 재생시킴으로써 사용자의 운동 페이스를 일정하게 유지하게 한다. 이렇게 리듬을 잃지 않고 운동하게 도와줌으로써 운동 효과를 극대화시킬 수 있는 서비스를 만들게 되었다.
+위와 같이 모임 결제에서 더치페이를 선호하는 사람들이 많음을 확인할 수 있습니다.
+![슬라이드11](https://github.com/Fintech-Internship-04/.github/assets/11494592/6d8970f7-e5b7-4dd6-821f-f7f11065ca89)
+이들은 위와 같이 정산과정에서 불편함을 호소하고 있습니다.
+![슬라이드16](https://github.com/Fintech-Internship-04/.github/assets/11494592/e08d2d96-c07b-4af8-8663-456c6e5bf652)
+정산을 하기 위해선 계산기 어플을 키고 일일이 계산해야 하는 번거로움이 있습니다.
+![슬라이드26](https://github.com/Fintech-Internship-04/.github/assets/11494592/bed94cc4-895f-4220-afc3-5767b5fb589f)
+그 번거로움을 해결하는 서비스가 바로 저희 어?벌써? 입니다. 30초 안에 모든 모임 정산을 자동으로 완료하는 서비스입니다.
 
 ### 🌞 타겟층
-
 
 1) 술자리 등과 같은 모임 자리에서 자동 정산을 빠르게 하고자 하는 20대에서 30대 청년
 2) 모임별 자동 정산 내역을 빠르게 확인하고자 하는 사람
 
 따라서 이 서비스는 모임에서 더치페이를 많이 하는 사람들에게 적합한 서비스입니다.
+
+
+### ✏️ 주요 서비스
+
+![슬라이드27](https://github.com/Fintech-Internship-04/.github/assets/11494592/b960f872-24f2-48b2-8f1f-7387548aa971)
 
 # 🏃 프로젝트 세부 내용
 
