@@ -95,25 +95,23 @@
 
 ### 1️⃣ 로그인, 회원가입
 
-<img width="1617" alt="1 로그인'" src="https://user-images.githubusercontent.com/56347876/172768562-01e41f7d-5760-4100-9453-a981fe719d9d.png">
-<img width="1629" alt="2 회원가입" src="https://user-images.githubusercontent.com/56347876/172768607-7948eadc-d902-42ff-b9ed-5fb5a09bb97d.png">
-<img width="1162" alt="회원가입222" src="https://user-images.githubusercontent.com/56347876/172796209-2a3881e9-3a88-45e1-807c-5181050db57c.png">
+
 
 ### 🛠️ 기술스택
 
 - FrontEnd   
-   - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-   - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 - BackEnd   
-    - ![Springboot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-    - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-    - Mybatis
+  ![Springboot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+  Mybatis
 
 - Cloud
-    - ![AWS EC2](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  ![AWS EC2](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - Collaboration
-    - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### ✏️ 기획 및 설계
 
