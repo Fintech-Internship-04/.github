@@ -102,18 +102,18 @@
 ### 🛠️ 기술스택
 
 - FrontEnd   
-   - NestJS
-   - Vercel
+   - ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+   - ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 - BackEnd   
-    - Springboot
-    - MySQL
+    - ![Springboot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+    - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
     - Mybatis
 
 - Cloud
-    - AWS EC2
+    - ![AWS EC2](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - Collaboration
-    - Github
+    - ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### ✏️ 기획 및 설계
 
