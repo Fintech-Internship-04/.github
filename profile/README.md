@@ -128,3 +128,5 @@
 [📌 Github(Frontend)](https://github.com/2022-1-Capstone-Project/face-your-pace-frontend)
 
 [📌 Github(Backend)](https://github.com/Fintech-Internship-04/Fintech-Internship-04-BE)
+
+[📌 데모 시연영상(Youtube)](https://youtu.be/1jTX-4HG8DY?si=QN7kAbW7Exze4Xlu)
